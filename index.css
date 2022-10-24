@@ -1,0 +1,47 @@
+body {
+    background-image: url("logo.jpg");
+    background-size: cover;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+h1 {
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: white;
+    align-items: center;
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+
+}
+
+#increment-btn {
+    background: darkred;
+    border-radius: 100%;
+}
+
+#save-btn {
+    background: darkgreen;
+    border-radius: 100%;
+}
+
+p {
+    color: white;
+}
